@@ -1,4 +1,4 @@
-package com.joeaouad.hackerrank;
+package com.joeaouad.hackerrank.easy;
 
 import org.junit.jupiter.api.Test;
 

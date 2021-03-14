@@ -1,6 +1,5 @@
-package com.joeaouad.hackerrank;
+package com.joeaouad.hackerrank.easy;
 
-import com.joeaouad.hackerrank.CompareTriplets;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;

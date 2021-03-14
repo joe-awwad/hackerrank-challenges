@@ -1,4 +1,4 @@
-package com.joeaouad.hackerrank;
+package com.joeaouad.hackerrank.easy;
 
 import java.util.ArrayList;
 import java.util.Arrays;
