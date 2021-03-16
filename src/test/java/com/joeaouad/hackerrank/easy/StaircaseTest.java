@@ -15,4 +15,14 @@ class StaircaseTest {
     void shouldDisplayStaircaseOf6() {
         Staircase.staircase(6);
     }
+
+    @Test
+    void shouldBuildStaircaseStringForJava8() {
+        assertEquals("   #\n  ##\n ###\n####", Staircase.getStaircaseStringJava8(4));
+    }
+
+    @Test
+    void shouldDisplayStaircaseOf6StringForJava8() {
+        Staircase.staircaseJava8(6);
+    }
 }
